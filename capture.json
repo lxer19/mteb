@@ -1,0 +1,57 @@
+{
+  "recorded_at_utc": "2026-10-16T02:06:14.093128+00:00",
+  "source_url": "https://mteb-leaderboard.hf.space/benchmark/MTEB%28Multilingual%2C%20v2%29?q=multilingual-e5-large&tab=perf_task",
+  "benchmark": "MTEB(Multilingual, v2)",
+  "model": "intfloat/multilingual-e5-large",
+  "method": "Native Chrome screenshots through CUA; rectangular crops only. No changes to displayed values or webpage content. Browser chrome excluded.",
+  "captures": [
+    {
+      "task": "IN22GenBitextMining",
+      "displayed_score": "76.75",
+      "image": "IN22GenBitextMining.png",
+      "context_image": "IN22GenBitextMining-page.png",
+      "crop_box": [
+        56,
+        810,
+        1940,
+        1330
+      ],
+      "original_dimensions": [
+        2644,
+        1796
+      ]
+    },
+    {
+      "task": "BelebeleRetrieval",
+      "displayed_score": "77.91",
+      "image": "BelebeleRetrieval.png",
+      "context_image": "BelebeleRetrieval-page.png",
+      "crop_box": [
+        56,
+        810,
+        1940,
+        1330
+      ],
+      "original_dimensions": [
+        2644,
+        1796
+      ]
+    },
+    {
+      "task": "STS22.v2",
+      "displayed_score": "64.30",
+      "image": "STS22.v2.png",
+      "context_image": "STS22.v2-page.png",
+      "crop_box": [
+        56,
+        810,
+        1940,
+        1330
+      ],
+      "original_dimensions": [
+        2644,
+        1796
+      ]
+    }
+  ]
+}
